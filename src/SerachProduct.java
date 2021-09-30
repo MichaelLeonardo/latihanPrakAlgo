@@ -9,5 +9,5 @@
  * @author PauL
  */
 public class SerachProduct {
-    
+    String nama  = "Tas HNM";
 }
